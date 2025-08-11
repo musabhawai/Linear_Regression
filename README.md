@@ -20,7 +20,7 @@ Where:
 - \( c \) is the intercept
 
 ## 🛠 Technologies Used
-- Python 3
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
