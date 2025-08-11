@@ -33,8 +33,8 @@ Where:
 - *Process*:
   1. Load and explore dataset
   2. Visualize trends
-  3. Predict house prices
-  4. Train Linear Regression model
+  3. Train Linear Regression model
+  4. Predict house prices
   
 
 ### 2️⃣ Canada Per Capita Income Prediction
